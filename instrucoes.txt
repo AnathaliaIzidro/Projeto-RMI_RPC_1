@@ -1,0 +1,30 @@
+Aqui estão as instruções para executar o jogo de Resta Um:
+
+Passo 1: Executar o servidor
+
+Abra um terminal e navegue até o diretório onde se encontra o arquivo servidor.py. Execute o comando python servidor.py para iniciar o servidor.
+
+Passo 2: Executar o cliente
+
+Abra outro terminal e navegue até o diretório onde se encontra o arquivo cliente.py. Execute o comando python cliente.py para iniciar o cliente.
+
+Passo 3: Conectar ao servidor
+
+O cliente irá se conectar ao servidor automaticamente. Se você quiser conectar manualmente, você pode digitar o endereço IP do servidor e a porta (por exemplo, localhost:12345).
+
+Passo 4: Jogar o jogo
+
+O jogo irá começar automaticamente. Você pode jogar o jogo digitando comandos no terminal. Os comandos disponíveis são:
+
+mover x y destino_x destino_y: move uma peça da posição (x, y) para a posição (destino_x, destino_y).
+sair: sai do jogo.
+Passo 5: Verificar o resultado
+
+O jogo irá terminar quando um jogador vencer ou quando o servidor for fechado. Você pode verificar o resultado do jogo no terminal.
+
+Observações
+
+Certifique-se de que o servidor esteja executando antes de executar o cliente.
+Certifique-se de que o cliente esteja conectado ao servidor antes de jogar o jogo.
+O jogo pode ser jogado por dois jogadores simultaneamente.
+O jogo pode ser jogado em modo texto ou em modo gráfico (usando o arquivo jogo.py).
