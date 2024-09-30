@@ -18,7 +18,3 @@ Este é um jogo de estratégia para dois jogadores. O objetivo é ser o último 
 
 * Python 3.x
 * Biblioteca `random` para gerar números aleatórios.
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você tiver alguma sugestão ou correção, por favor, abra uma issue ou faça um pull request.
